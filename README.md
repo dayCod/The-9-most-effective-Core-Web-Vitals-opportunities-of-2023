@@ -16,10 +16,10 @@ Interaction to Next Paint adalah metrik Core Web Vital yang tertunda dan akan me
 - `CLS` => Cumulative Layout Shift
 
 ## References
-[LCP](https://web.dev/articles/lcp)
-[Optimize INP](https://web.dev/explore/how-to-optimize-inp)
-[Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
-[Web.dev](https://web.dev/)
-[BFCache](https://web.dev/articles/bfcache)
-[INP](https://web-dev.translate.goog/articles/inp)
-[Cumulative Layout Shift](https://web.dev/articles/cls)
+- [LCP](https://web.dev/articles/lcp)
+- [Optimize INP](https://web.dev/explore/how-to-optimize-inp)
+- [Core Web Vitals](https://web.dev/explore/learn-core-web-vitals)
+- [Web.dev](https://web.dev/)
+- [BFCache](https://web.dev/articles/bfcache)
+- [INP](https://web-dev.translate.goog/articles/inp)
+- [Cumulative Layout Shift](https://web.dev/articles/cls)
